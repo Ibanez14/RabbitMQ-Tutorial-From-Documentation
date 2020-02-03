@@ -1,0 +1,17 @@
+C:\Users\sovsh\source\repos\LogPublisher\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.exe
+C:\Users\sovsh\source\repos\LogPublisher\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.csprojAssemblyReference.cache
+C:\Users\sovsh\source\repos\LogPublisher\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.AssemblyInfoInputs.cache
+C:\Users\sovsh\source\repos\LogPublisher\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.exe
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.deps.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.csproj.CopyComplete
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoAndWarningLogConsumer\obj\Debug\netcoreapp3.1\InfoAndWarningLogConsumer.csprojAssemblyReference.cache

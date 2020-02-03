@@ -1,0 +1,10 @@
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\bin\Debug\netcoreapp3.1\InfoLowConsumer.exe
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\bin\Debug\netcoreapp3.1\InfoLowConsumer.deps.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\bin\Debug\netcoreapp3.1\InfoLowConsumer.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\bin\Debug\netcoreapp3.1\InfoLowConsumer.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\bin\Debug\netcoreapp3.1\InfoLowConsumer.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\bin\Debug\netcoreapp3.1\InfoLowConsumer.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\obj\Debug\netcoreapp3.1\InfoLowConsumer.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\obj\Debug\netcoreapp3.1\InfoLowConsumer.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\obj\Debug\netcoreapp3.1\InfoLowConsumer.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\InfoLowConsumer\obj\Debug\netcoreapp3.1\InfoLowConsumer.pdb

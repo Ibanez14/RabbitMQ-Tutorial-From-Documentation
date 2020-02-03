@@ -1,0 +1,17 @@
+C:\Users\sovsh\source\repos\LogPublisher\LogPublisher\bin\Debug\netcoreapp3.1\LogPublisher.exe
+C:\Users\sovsh\source\repos\LogPublisher\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.csprojAssemblyReference.cache
+C:\Users\sovsh\source\repos\LogPublisher\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.AssemblyInfoInputs.cache
+C:\Users\sovsh\source\repos\LogPublisher\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\bin\Debug\netcoreapp3.1\LogPublisher.exe
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\bin\Debug\netcoreapp3.1\LogPublisher.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.csproj.CopyComplete
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\bin\Debug\netcoreapp3.1\LogPublisher.deps.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\bin\Debug\netcoreapp3.1\LogPublisher.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\bin\Debug\netcoreapp3.1\LogPublisher.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\bin\Debug\netcoreapp3.1\LogPublisher.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\LogPublisher\obj\Debug\netcoreapp3.1\LogPublisher.csprojAssemblyReference.cache

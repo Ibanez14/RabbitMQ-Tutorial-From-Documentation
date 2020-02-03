@@ -1,0 +1,16 @@
+C:\Users\sovsh\source\repos\LogPublisher\ErrorLogConsumer\bin\Debug\netcoreapp3.1\ErrorLogConsumer.exe
+C:\Users\sovsh\source\repos\LogPublisher\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.csprojAssemblyReference.cache
+C:\Users\sovsh\source\repos\LogPublisher\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.AssemblyInfoInputs.cache
+C:\Users\sovsh\source\repos\LogPublisher\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\bin\Debug\netcoreapp3.1\ErrorLogConsumer.exe
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\bin\Debug\netcoreapp3.1\ErrorLogConsumer.deps.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\bin\Debug\netcoreapp3.1\ErrorLogConsumer.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\bin\Debug\netcoreapp3.1\ErrorLogConsumer.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\bin\Debug\netcoreapp3.1\ErrorLogConsumer.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\bin\Debug\netcoreapp3.1\ErrorLogConsumer.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.csproj.CopyComplete
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Routing\ErrorLogConsumer\obj\Debug\netcoreapp3.1\ErrorLogConsumer.pdb
