@@ -1,0 +1,30 @@
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\bin\Debug\netcoreapp3.1\Publisher.exe
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\bin\Debug\netcoreapp3.1\Publisher.deps.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\bin\Debug\netcoreapp3.1\Publisher.runtimeconfig.dev.json
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\bin\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\bin\Debug\netcoreapp3.1\Publisher.pdb
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\obj\Debug\netcoreapp3.1\Publisher.csprojAssemblyReference.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfoInputs.cache
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\obj\Debug\netcoreapp3.1\Publisher.AssemblyInfo.cs
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\obj\Debug\netcoreapp3.1\Publisher.csproj.CopyComplete
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\obj\Debug\netcoreapp3.1\Publisher.dll
+C:\Users\sovsh\Desktop\Testing Application\RabbiqMQ\Tutorial 2\Publisher\obj\Debug\netcoreapp3.1\Publisher.pdb
